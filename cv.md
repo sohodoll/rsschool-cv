@@ -24,7 +24,7 @@ Currently, I am learning Front-End development.
 ## Experience
 
 * **1newhomes** – Content Writer  (Jan 2021 – Currently);
-* **Sports School** – SMM Manager(Sep 2018 – Dec 2020);
+* **Sports School** – SMM Manager (Sep 2018 – Dec 2020);
 
 ## Skills
 
