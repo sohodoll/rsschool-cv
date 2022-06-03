@@ -37,7 +37,7 @@ Currently, I am learning Front-End development.
 
 ## Examples Of Code
 
-` console.log('Hello, World'); `
+``` console.log('Hello, World');
 
 ## Languages
 
