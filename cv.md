@@ -37,9 +37,11 @@ Currently, I am learning Front-End development.
 
 ## Examples Of Code
 
-``` console.log('Hello, World');
+```JS
+console.log('Hello, World');
+```
 
 ## Languages
 
 * **English** – Advanced (C2);
-* **Russian** – Native
+* **Russian** – Native;
